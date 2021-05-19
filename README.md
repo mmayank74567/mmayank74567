@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmayank74567
-- 👀 I’m interested in deep learing (for computer vision)
+- 👀 I’m interested in deep learning (for computer vision)
 - 🌱 I’m currently learning object detection
 - 📫 More about me at  https://mmayank74567.github.io/
 
