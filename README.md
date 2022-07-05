@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmayank74567
 - 👀 I’m interested in deep learning (for computer vision)
-- 🌱 I’m currently learning object detection
+- 🌱 I’m currently working as project assistant at Indian Institue of Science, Bangalore.
 - 📫 More about me at  https://mmayank74567.github.io/
 
 <!---
